@@ -1,0 +1,45 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #18123a;
+    font-weight: 300;
+       color: #e51d25;
+}
+.line {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #e51d25;
+}
+
+ 
+
+
+.text-muted {
+    color: #e51d25;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+        max-width: 200px;
+    max-height: 200px;
+
+    margin-top: 20px;
+}
+ @media only screen and (min-width: 547px) and (max-width:  639px) {
+     
+     
+     
+     body {
+         font-size: 50px;
+
+}
+   
+
+}
